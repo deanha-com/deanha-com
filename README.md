@@ -3,8 +3,6 @@
 
 🔭 I’m currently working on my personal development and leveling up my skillset.
 
-🌱 I’m also participating in the [#100DaysOfCode](https://www.100daysofcode.com/) challenge and taking the opportunity to practice more on  React, Vue & NodeJS.
-
 📫 You can reach me on:
 
 [![Twitter Badge](https://img.shields.io/badge/-@dean_ha-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https%3A%2F%2Ftwitter.com%2Fdean_ha)](https://twitter.com/dean_ha)
