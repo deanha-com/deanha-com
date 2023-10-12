@@ -10,11 +10,10 @@
 [![Instagram Badge](https://img.shields.io/badge/-@deanha_com-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/deanha_com)
 [![Website Badge](https://img.shields.io/badge/-Website-8491cf?style=flat&labelColor=8491cf)](https://deanha.com/)
 
-![Dean Ha's GitHub stats](https://github-readme-stats.vercel.app/api?username=deanha-com&show_icons=true)
-
-
 
 <!--
+![Dean Ha's GitHub stats](https://github-readme-stats.vercel.app/api?username=deanha-com&show_icons=true)
+
 **deanha-com/deanha-com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
